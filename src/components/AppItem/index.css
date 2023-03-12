@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.App-container {
+  background-color: #ffffff;
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
+.img-width-app {
+  width: 30px;
+}
